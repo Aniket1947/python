@@ -1,0 +1,4 @@
+We are learning Python.
+django framework is use to develop website.
+AI and ML is the most trend.
+This your future
